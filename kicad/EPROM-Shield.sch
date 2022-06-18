@@ -334,7 +334,7 @@ U 1 1 6277D138
 P 7150 3000
 F 0 "U3" H 7150 4281 50  0000 C CNN
 F 1 "28C256" H 7150 4190 50  0000 C CNN
-F 2 "Package_DIP:DIP-28_W15.24mm_LongPads" H 7150 3000 50  0001 C CNN
+F 2 "Package_DIP:DIP-28_W15.24mm_Socket_LongPads" H 7150 3000 50  0001 C CNN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/doc0006.pdf" H 7150 3000 50  0001 C CNN
 	1    7150 3000
 	1    0    0    -1  
